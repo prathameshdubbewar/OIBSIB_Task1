@@ -1,2 +1,2 @@
-# Task 1 IRIS Classification
+# Task 1 - IRIS Classification
 # DataScienceIntenship
